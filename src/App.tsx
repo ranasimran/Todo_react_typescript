@@ -7,7 +7,7 @@ import "./App.css"
 export default function App() {
   return (
     <main>
-      <h2>TOD REACT + TYPESCRIPT</h2>
+      <h2>TODO REACT + TYPESCRIPT</h2>
       <Navbar />
       <AddTodo />
       <Todos />
